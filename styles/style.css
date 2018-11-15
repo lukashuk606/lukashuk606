@@ -1,0 +1,49 @@
+html {
+  font-size: 18px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+    margin: 0;
+  padding: 20px 0;    
+  color: #1e100c;
+  }
+h2{
+   font-size: 24px;
+  text-align: justify;
+ margin: 0;
+  padding: 20px 0;    
+  color: #1e100c;
+}
+h3{
+   font-size: 20px;
+  text-align: center;
+ margin: 0;
+  padding: 20px 0;    
+  color: #1e100c; 
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p, li {
+  font-size: 18px;    
+  line-height: 2;
+  letter-spacing: 1px;
+    text-align: justify;
+    color: #1e100c;
+}
+
+html {
+  background-color: #ffffff;
+}
+
+body {
+  width: 800px;
+  margin: 0px auto;
+  background-color: #ffffff;
+  padding: 0 20px 20px 20px;
+  border: 2px solid #1e100c;
+}
